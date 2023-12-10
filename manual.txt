@@ -1,0 +1,5 @@
+1. Устанавливаем библиотеку "PyGame".
+in Terminal: pip install pygame
+2. Импортируем "PyGame" и "sys".
+in file_name.py: import pygame
+                 import sys
